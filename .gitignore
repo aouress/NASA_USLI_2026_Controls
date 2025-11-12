@@ -2,6 +2,8 @@
 *.PcbDoc.Zip
 *.SchDoc.Zip
 *.PrjPcb.Zip
+*.PcbLib.Zip
+*.SchLib.Zip
 *.LOG
 *.SchDocPreview
 *.LibPkg.Zip
