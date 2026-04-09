@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Controls_PcbPrj.PrjPcb]
+   Generated File[ControlsPcbv4.TXT]
+   Generated File[ControlsPcbv4.LDP]
+   Generated File[ControlsPcbv4.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:15:31 AM On 2/10/2026
